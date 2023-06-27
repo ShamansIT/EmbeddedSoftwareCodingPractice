@@ -20,8 +20,20 @@ int main() {
     *p = 33;
     std::cout << b << std::endl;
 
+    //pointer to constant
     const int c = 44;
     const int* pc = &c;
+
+    //constant pointer
+    int d = 55;
+    const int e = 55;   
+
+    int* const pconst = &d;
+    *pconst = 66;
+
+    const int* const pconstconst = &e;
+
+    int* n = nullptr;//recomend to init pointer
 
     return 0;
 }
