@@ -5,8 +5,6 @@
 std::string extractWordsFromMultilineText(const std::string& multilineText);
 char getFirstUniqeSymbolToArray(const std::string& multilineText);
 
-
-
 int main() {
     std::string multilineText = "";
     std::string bufferLineText = "";
