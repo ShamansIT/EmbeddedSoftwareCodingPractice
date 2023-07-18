@@ -1,0 +1,7 @@
+# ninja log v5
+0	18	1689677173541656370	CMakeFiles/OOP_const_method.dir/Rectangle.cpp.o	d095eab973c75fe4
+0	173	1689677173701656373	CMakeFiles/OOP_const_method.dir/main.cpp.o	1eb4a7a0ae4ae06e
+173	208	1689677173737656375	OOP_const_method	384b3642bee1ff51
+0	17	1689677984620417250	CMakeFiles/OOP_const_method.dir/Rectangle.cpp.o	d095eab973c75fe4
+0	151	1689677984764416898	CMakeFiles/OOP_const_method.dir/main.cpp.o	1eb4a7a0ae4ae06e
+151	186	1689677984796416819	OOP_const_method	384b3642bee1ff51
