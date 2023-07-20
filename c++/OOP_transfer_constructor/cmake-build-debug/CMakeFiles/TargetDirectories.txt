@@ -1,0 +1,3 @@
+/home/serhii/Desktop/OOP_transfer_constructor/cmake-build-debug/CMakeFiles/OOP_transfer_constructor.dir
+/home/serhii/Desktop/OOP_transfer_constructor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/serhii/Desktop/OOP_transfer_constructor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

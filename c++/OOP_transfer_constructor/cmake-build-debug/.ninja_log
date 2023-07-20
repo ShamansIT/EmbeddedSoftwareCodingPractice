@@ -1,0 +1,22 @@
+# ninja log v5
+0	41	1689845141224067394	CMakeFiles/OOP_transfer_constructor.dir/String.cpp.o	8243671e4e8153d9
+0	203	1689845141384067009	CMakeFiles/OOP_transfer_constructor.dir/main.cpp.o	57327184a2f2e601
+203	245	1689845141428066904	OOP_transfer_constructor	e07697907ff3e34e
+0	17	1689845280619784385	CMakeFiles/OOP_transfer_constructor.dir/String.cpp.o	8243671e4e8153d9
+17	55	1689845280655784324	OOP_transfer_constructor	e07697907ff3e34e
+1	17	1689845296307758382	CMakeFiles/OOP_transfer_constructor.dir/String.cpp.o	8243671e4e8153d9
+17	55	1689845296343758324	OOP_transfer_constructor	e07697907ff3e34e
+0	16	1689845332679702097	CMakeFiles/OOP_transfer_constructor.dir/String.cpp.o	8243671e4e8153d9
+16	52	1689845332715702044	OOP_transfer_constructor	e07697907ff3e34e
+1	161	1689850328801947994	CMakeFiles/OOP_transfer_constructor.dir/String.cpp.o	8243671e4e8153d9
+1	171	1689850328809947796	CMakeFiles/OOP_transfer_constructor.dir/main.cpp.o	57327184a2f2e601
+171	206	1689850328845946906	OOP_transfer_constructor	e07697907ff3e34e
+0	162	1689850439659364219	CMakeFiles/OOP_transfer_constructor.dir/main.cpp.o	57327184a2f2e601
+162	198	1689850439695363427	OOP_transfer_constructor	e07697907ff3e34e
+1	167	1689850623739643784	CMakeFiles/OOP_transfer_constructor.dir/String.cpp.o	8243671e4e8153d9
+1	168	1689850623743643710	CMakeFiles/OOP_transfer_constructor.dir/main.cpp.o	57327184a2f2e601
+168	212	1689850623787642890	OOP_transfer_constructor	e07697907ff3e34e
+0	171	1689850694542361863	CMakeFiles/OOP_transfer_constructor.dir/main.cpp.o	57327184a2f2e601
+171	207	1689850694582361159	OOP_transfer_constructor	e07697907ff3e34e
+0	166	1689850765757139758	CMakeFiles/OOP_transfer_constructor.dir/main.cpp.o	57327184a2f2e601
+166	202	1689850765793139155	OOP_transfer_constructor	e07697907ff3e34e
