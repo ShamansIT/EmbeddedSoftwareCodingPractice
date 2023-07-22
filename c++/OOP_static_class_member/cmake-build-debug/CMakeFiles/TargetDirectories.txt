@@ -1,0 +1,3 @@
+/home/serhii/Desktop/OOP_static_class_member/cmake-build-debug/CMakeFiles/OOP_static_class_member.dir
+/home/serhii/Desktop/OOP_static_class_member/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/serhii/Desktop/OOP_static_class_member/cmake-build-debug/CMakeFiles/rebuild_cache.dir

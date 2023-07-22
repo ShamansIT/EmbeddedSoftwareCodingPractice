@@ -1,0 +1,10 @@
+# ninja log v5
+1	14	1689963069971858683	CMakeFiles/OOP_static_class_member.dir/Tank.cpp.o	1f4b5084c9242af4
+0	159	1689963070115858197	CMakeFiles/OOP_static_class_member.dir/main.cpp.o	62e6921b2c64e48e
+159	193	1689963070151858075	OOP_static_class_member	49e7243dc6bfa20f
+1	18	1689963300971095886	CMakeFiles/OOP_static_class_member.dir/Tank.cpp.o	1f4b5084c9242af4
+0	176	1689963301135095355	CMakeFiles/OOP_static_class_member.dir/main.cpp.o	62e6921b2c64e48e
+176	210	1689963301167095251	OOP_static_class_member	49e7243dc6bfa20f
+0	18	1689964846238712665	CMakeFiles/OOP_static_class_member.dir/Tank.cpp.o	1f4b5084c9242af4
+0	160	1689964846390712244	CMakeFiles/OOP_static_class_member.dir/main.cpp.o	62e6921b2c64e48e
+160	195	1689964846422712156	OOP_static_class_member	49e7243dc6bfa20f
