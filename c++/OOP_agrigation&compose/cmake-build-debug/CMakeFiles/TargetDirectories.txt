@@ -1,0 +1,3 @@
+/home/serhii/Desktop/OOP_agrigation&compose/cmake-build-debug/CMakeFiles/OOP_agrigation_compose.dir
+/home/serhii/Desktop/OOP_agrigation&compose/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/serhii/Desktop/OOP_agrigation&compose/cmake-build-debug/CMakeFiles/rebuild_cache.dir
