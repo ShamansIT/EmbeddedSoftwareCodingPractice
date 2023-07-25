@@ -1,0 +1,16 @@
+# ninja log v5
+185	224	1690295103802136046	OOP_template_class	4ade649d1c902eb0
+0	184	1690295103762136113	CMakeFiles/OOP_template_class.dir/main.cpp.o	bc72bca70f7385d4
+0	17	1690295613541328670	build.ninja	8bdb0568cdf4fa48
+0	152	1690296364851114812	CMakeFiles/OOP_template_class.dir/main.cpp.o	bc72bca70f7385d4
+153	185	1690296364883114677	OOP_template_class	4ade649d1c902eb0
+0	150	1690296381871043008	CMakeFiles/OOP_template_class.dir/main.cpp.o	bc72bca70f7385d4
+150	182	1690296381903042874	OOP_template_class	4ade649d1c902eb0
+0	150	1690297931962902648	CMakeFiles/OOP_template_class.dir/main.cpp.o	bc72bca70f7385d4
+150	182	1690297931998902573	OOP_template_class	4ade649d1c902eb0
+1	153	1690297978774805179	CMakeFiles/OOP_template_class.dir/main.cpp.o	bc72bca70f7385d4
+153	187	1690297978810805104	OOP_template_class	4ade649d1c902eb0
+1	155	1690298058138640942	CMakeFiles/OOP_template_class.dir/main.cpp.o	bc72bca70f7385d4
+155	189	1690298058174640868	OOP_template_class	4ade649d1c902eb0
+0	151	1690298132002488157	CMakeFiles/OOP_template_class.dir/main.cpp.o	bc72bca70f7385d4
+151	183	1690298132038488081	OOP_template_class	4ade649d1c902eb0
