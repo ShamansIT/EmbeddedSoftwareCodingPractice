@@ -1,0 +1,3 @@
+/home/serhii/Desktop/OOP_Inharitance/cmake-build-debug/CMakeFiles/OOP_Inharitance.dir
+/home/serhii/Desktop/OOP_Inharitance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/serhii/Desktop/OOP_Inharitance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+0	28	1691080645260875745	CMakeFiles/OOP_Inharitance.dir/MathArray.cpp.o	202d2d240072e2a0
+0	175	1691080645408875658	CMakeFiles/OOP_Inharitance.dir/main.cpp.o	94082e06f9c05f30
+1	151	1691080698744843233	CMakeFiles/OOP_Inharitance.dir/Array.cpp.o	51a0cedce40e3afd
+151	192	1691080698784843208	OOP_Inharitance	9271e114556c20b1
